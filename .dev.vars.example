@@ -1,0 +1,3 @@
+# Server-side settings for `wrangler pages dev` / Cloudflare Pages (never commit real values).
+# Base URL of the protocol's public data API (basket state, prices, candles).
+BLEND_API_ORIGIN=

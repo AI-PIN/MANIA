@@ -1,0 +1,7 @@
+/* Base styles shared by the storefront (everything else is scoped under .bk in blend/blend.css). */
+html, body { margin: 0; padding: 0; background: #eeece6; }
+body { font-family: Inter, system-ui, sans-serif; }
+.logo { border-radius: 50%; object-fit: cover; background: #f6f5f0; flex: none; }
+.logo.mono { display: inline-flex; align-items: center; justify-content: center; color: #fff; font-family: Inter, sans-serif; font-weight: 700; }
+.rhc-logo { display: block; }
+.num { font-variant-numeric: tabular-nums; }
